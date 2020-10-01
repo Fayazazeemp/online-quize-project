@@ -46,7 +46,30 @@ let questions = [
             "none of these"
         ] 
     }
-];
+], 
+    {
+
+        id:5,
+
+        question:"who is known as the father of computers ?",
+
+        answer: "Charles Babage",
+
+        options: [
+
+            "Tim bernsly",
+
+            "Charles Babage",
+
+            "Winston Surf",
+
+            "none of these"
+
+        ] 
+
+    }
+
+]; 
 
 
 
